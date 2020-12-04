@@ -8,7 +8,7 @@
 <h4 align="center">A social media website </h4>
 
 Instagram is a desktop app :computer: which uses HTML, CSS, Material-UI, Javascript, React & Firebase.
-Instagram lets you Add posts as well as Comment on posts. Just signup :sunglasses: & have fun :camera: :speech_balloon:  :point_right:: [Instagram Clone](https://instagramclone-15ecc.web.app/) :fire:
+Instagram lets you Add posts as well as Comment on posts. Just signup :sunglasses: & have fun :camera: :speech_balloon:  :point_right: [Instagram Clone](https://instagramclone-15ecc.web.app/) :fire:
 
 # Screenshots
 
