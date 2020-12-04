@@ -1,6 +1,18 @@
-# Instagram Clone
+# [Instagram Clone](https://instagramclone-15ecc.web.app/)
 
-## [Live Link](https://instagramclone-15ecc.web.app/)
+<h1 align="center">
+  <br>
+  <a href="https://instagramclone-15ecc.web.app"><img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo-2x.png/1b47f9d0e595.png" alt="Insta"> </a>
+</h1>
+
+<h4 align="center">A social media website </h4>
+
+Instagram is a desktop app :computer: which uses HTML, CSS, Material-UI, Javascript, React & Firebase.
+Instagram lets you Add posts as well as Comment on posts. Just signup :sunglasses: & have fun :camera: :speech_balloon:  :point_right:: [Instagram Clone](https://instagramclone-15ecc.web.app/) :fire:
+
+# Screenshots
+
+<img src="https://github.com/fahdshaikh/InstagramClone/blob/master/Images/insta.png" alt="insta">
 
 ---
 
